@@ -147,7 +147,7 @@
     <string name="info_screen_1_text">Voeg klanten, projecten en tarieven toe</string>
     <string name="info_screen_2_text">Registreer uren en kilometers</string>
     <string name="info_screen_3_text">Zet de gegevens over naar de desktop en genereer vervolgens razendsnel facturen en overzichten.\n\nwww.glasspath.org</string>
-    <string name="info_screen_4_text_1">Glasspath Ticks versie</string>
+    <string name="info_screen_4_text_1">Glasspath Revenue versie</string>
     <string name="info_screen_4_text_2">Build</string>
     <string name="totals_title">Totalen</string>
     <string name="currency_symbol">€</string>
