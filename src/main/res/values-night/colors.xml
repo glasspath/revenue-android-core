@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="app_bg">#0F1113</color>
+    <color name="accent_color">#42A5F5</color>
+    <color name="accent_color_transparent">#5542A5F5</color>
+    <color name="accent_color_disabled">#235883</color>
+    <color name="accent_color_2">#5C6BC0</color>
+    <color name="alert_dialog_bg">#424242</color>
+
+    <color name="action_bar_gradient_top">#1D1F21</color>
+    <color name="action_bar_gradient_bottom">#1D1F21</color>
+    <color name="action_bar_top_line">#1D1F21</color>
+    <color name="action_bar_bottom_line">#000</color>
+
+    <color name="search_field_bg">#000</color>
+    <color name="search_field_stroke">#000</color>
+
+    <color name="registrations_list_bg">#0F1113</color>
+    <color name="registrations_list_line">#0F1113</color>
+    <color name="active_item_bg">#555</color>
+    <color name="footer_gradient_top">#1D1F21</color>
+    <color name="footer_gradient_bottom">#1D1F21</color>
+    <color name="footer_lines">#000</color>
+    <color name="footer_button_pressed_color">#000</color>
+
+    <color name="actionbar_title_color">#BBB</color>
+
+    <color name="quick_action_bg">#BB777777</color>
+
+    <color name="totals_bar_bg">#1D1F21</color>
+    <color name="totals_bar_top_line">#000</color>
+    <color name="totals_header_bg">#444</color>
+    <color name="totals_header_line">#444</color>
+    <color name="alternating_totals_row_background_color">#2C2C2C</color>
+
+    <color name="info_area_nav_bar_bg">@color/accent_color</color>
+
+    <color name="switch_button_background_on">@color/accent_color</color>
+    <color name="switch_button_background_off">#555</color>
+    <color name="switch_button_background_disabled">#333</color>
+    <color name="switch_button_foreground">#222</color>
+    <color name="switch_button_foreground_disabled">#555</color>
+
+    <color name="item_header_gradient_top">#555</color>
+    <color name="item_header_gradient_bottom">#555</color>
+    <color name="item_header_top_line">@color/transparent</color>
+    <color name="item_header_bottom_line">@color/transparent</color>
+    <color name="item_header_text_color">@color/accent_color</color>
+
+    <color name="registration_widget_bg">#000</color>
+    <color name="registration_widget_inner_circle">#232527</color>
+    <color name="registration_widget_button_bg">#232527</color>
+    <color name="registration_widget_stop_button_bg">@color/accent_color</color>
+    <color name="registration_widget_stop_button_pressed_bg">@color/accent_color</color>
+    <color name="registration_widget_stop_button_disabled_bg">#444</color>
+    <color name="registration_widget_stop_button_disabled_fg">#888</color>
+    <color name="registration_widget_text">#888</color>
+    <color name="registration_widget_active_text">#FFF</color>
+
+    <color name="widget_action_button_bg">#2D2F31</color>
+    <color name="widget_action_button_pressed_bg">@color/accent_color</color>
+    <color name="widget_action_button_stroke">#000</color>
+    <color name="widget_action_button_fg">#CCC</color>
+    <color name="widget_action_button_active_fg">#FFF</color>
+
+    <color name="registration_header_stroke">@color/transparent</color>
+    <color name="registration_content_stroke">@color/registrations_list_bg</color>
+    <color name="registration_content_bg">#26282B</color>
+    <color name="registration_active_text_color">#FFF</color>
+    <color name="registration_inactive_text_color">#999</color>
+    <color name="registration_inactive_inactive_text_color">#555</color>
+
+    <color name="configurator_item_title">#FAFAFA</color>
+    <color name="configurator_item_sub_title">#DDD</color>
+
+    <color name="scan_qr_code_background">#000</color>
+
+    <color name="side_menu_bg">#303030</color>
+    <color name="side_menu_header">#1D1F21</color>
+    <color name="side_menu_header_text">@color/accent_color</color>
+    <color name="side_menu_shadow">#AA000000</color>
+    <color name="side_menu_thick_line_color">#2A2A2A</color>
+    <color name="side_menu_thin_line_color">#181818</color>
+    <drawable name="side_menu_pressed_background_color">#CCC</drawable>
+
+    <color name="widget_bg">#303237</color>
+
+    <color name="bottom_sheet_bg">#353535</color>
+    <color name="bottom_sheet_icon_color">#CCC</color>
+    <color name="bottom_sheet_divider_bg">#5F5F5F</color>
+    <color name="clickable_sheet_view_bg">#555</color>
+    <color name="edit_text_bg">#353535</color>
+
+</resources>
