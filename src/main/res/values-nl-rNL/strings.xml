@@ -4,7 +4,7 @@
     <string name="start">Start</string>
     <string name="hours">Uren</string>
     <string name="miles">Km</string>
-    <string name="hoursAndMiles">Uren + Km</string>
+    <string name="hours_and_miles">Uren + Km</string>
     <string name="ok">OK</string>
     <string name="cancel">Annuleren</string>
     <string name="custom">Aangepast</string>
@@ -26,7 +26,7 @@
     <string name="mileage_only">Alleen kilometers</string>
     <string name="hours_and_mileage">Uren en kilometers</string>
     <string name="from">Van</string>
-    <string name="to">Tot</string>
+    <string name="to">tot</string>
     <string name="start_break_at">Start pauze om</string>
     <string name="time_from">Tijd vanaf</string>
     <string name="time_to">Tijd tot</string>
