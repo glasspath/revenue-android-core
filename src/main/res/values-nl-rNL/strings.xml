@@ -12,9 +12,9 @@
     <string name="finish">Voltooien</string>
     <string name="project">Project</string>
     <string name="rate">Tarief</string>
-    <string name="no_client_selected">Geen klant geselecteerd</string>
-    <string name="no_project_selected">Geen project geselecteerd</string>
-    <string name="no_rate_selected">Geen tarief geselecteerd</string>
+    <string name="no_client_selected">Geen Klant geselecteerd</string>
+    <string name="no_project_selected">Geen Project geselecteerd</string>
+    <string name="no_rate_selected">Geen Tarief geselecteerd</string>
     <string name="store_to_sd">Op SD kaart opslaan</string>
     <string name="load_from_sd">Vanaf SD kaart laden</string>
     <string name="search">Zoeken</string>
@@ -24,7 +24,7 @@
     <string name="start_tracking">Nieuwe Registratie</string>
     <string name="hours_only">Alleen uren</string>
     <string name="mileage_only">Alleen kilometers</string>
-    <string name="hours_and_mileage">Uren en kilometers</string>
+    <string name="hours_and_mileage">Uren en Kilometers</string>
     <string name="from">Van</string>
     <string name="to">tot</string>
     <string name="start_break_at">Start pauze om</string>
@@ -38,8 +38,8 @@
     <string name="description">Omschrijving</string>
     <string name="rate_name">Tariefnaam</string>
     <string name="client_name">Klantnaam</string>
-    <string name="hour_rate">Per uur</string>
-    <string name="mileage_rate">Per kilometer</string>
+    <string name="hour_rate">Per Uur</string>
+    <string name="mileage_rate">Per Kilometer</string>
     <string name="comments">Opmerkingen</string>
     <string name="scan_code_activity_title">Scan QR Code</string>
     <string name="registration_configurator_title">Eigenschappen</string>
