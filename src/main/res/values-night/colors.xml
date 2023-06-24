@@ -79,6 +79,9 @@
     <color name="registration_inactive_text_color">#999</color>
     <color name="registration_inactive_inactive_text_color">#555</color>
 
+    <color name="action_item_title_text_color">#FFF</color>
+    <color name="action_item_description_text_color">#CCC</color>
+
     <color name="configurator_item_title">#FAFAFA</color>
     <color name="configurator_item_sub_title">#DDD</color>
 

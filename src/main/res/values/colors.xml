@@ -79,6 +79,9 @@
     <color name="registration_inactive_text_color">#9B9B9B</color>
     <color name="registration_inactive_inactive_text_color">#D7D7D7</color>
 
+    <color name="action_item_title_text_color">#000</color>
+    <color name="action_item_description_text_color">#444</color>
+
     <color name="configurator_item_title">#111</color>
     <color name="configurator_item_sub_title">#444</color>
 
