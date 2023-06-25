@@ -180,4 +180,5 @@
     <string name="unit_kilometers">Kilometers</string>
     <string name="other">Other</string>
     <string name="item_removed_from_history">Item removed from history</string>
+    <string name="suggested_actions">Suggested Actions</string>
 </resources>
