@@ -180,5 +180,12 @@
     <string name="unit_kilometers">Kilometers</string>
     <string name="other">Other</string>
     <string name="item_removed_from_history">Item removed from history</string>
+    <string name="no_activities">No Activities..</string>
     <string name="suggested_actions">Suggested Actions</string>
+    <string name="get_started_caps">GET STARTED</string>
+    <string name="visit_glasspath_org_action_text">Glasspath.org</string>
+    <string name="visit_glasspath_org_action_description">Get the latest Revenue for Windows, Mac or Linux from glasspath.org</string>
+    <string name="sync_action_text">Synchronize</string>
+    <string name="sync_action_description1">Load your Clients, Projects and Rates from the Revenue App on your desktop</string>
+    <string name="sync_action_description2">Transfer your activities to the Revenue App on your desktop</string>
 </resources>

@@ -180,5 +180,12 @@
     <string name="unit_kilometers">Kilometers</string>
     <string name="other">Ander</string>
     <string name="item_removed_from_history">Item verwijderd uit geschiedenis</string>
+    <string name="no_activities">Geen Activiteiten..</string>
     <string name="suggested_actions">Voorgestelde Acties</string>
+    <string name="get_started_caps">AAN DE SLAG</string>
+    <string name="visit_glasspath_org_action_text">Glasspath.org</string>
+    <string name="visit_glasspath_org_action_description">Download de nieuwste Revenue voor Windows, Mac of Linux op glasspath.org</string>
+    <string name="sync_action_text">Synchroniseren</string>
+    <string name="sync_action_description1">Laad je Klanten, Projecten en tarieven uit de Revenue App op je desktop</string>
+    <string name="sync_action_description2">Zet je activiteiten over naar de Revenue App op je desktop</string>
 </resources>
