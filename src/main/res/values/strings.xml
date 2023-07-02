@@ -188,4 +188,6 @@
     <string name="sync_action_text">Synchronize</string>
     <string name="sync_action_description1">Load your Clients, Projects and Rates from the Revenue App on your desktop</string>
     <string name="sync_action_description2">Transfer your activities to the Revenue App on your desktop</string>
+    <string name="manage_action_text">Manage</string>
+    <string name="manage_action_description">Add Clients, Projects and Rates</string>
 </resources>

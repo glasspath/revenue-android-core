@@ -188,4 +188,6 @@
     <string name="sync_action_text">Synchroniseren</string>
     <string name="sync_action_description1">Laad je Klanten, Projecten en tarieven uit de Revenue App op je desktop</string>
     <string name="sync_action_description2">Zet je activiteiten over naar de Revenue App op je desktop</string>
+    <string name="manage_action_text">Beheren</string>
+    <string name="manage_action_description">Voeg Klanten, Projecten en Tarieven toe</string>
 </resources>
