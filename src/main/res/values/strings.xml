@@ -87,7 +87,9 @@
     <string name="hour">hours</string>
     <string name="minutes">minutes</string>
     <string name="km">km</string>
+    <string name="mi">mi</string>
     <string name="kms">Km\'s</string>
+    <string name="mis">Miles</string>
     <string name="pairing">Pairing..</string>
     <string name="allow_sync_tcp_message">Accept incoming data?</string>
     <string name="sync_send_busy_message">Busy sending data..</string>

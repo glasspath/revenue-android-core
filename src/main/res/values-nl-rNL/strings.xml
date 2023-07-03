@@ -87,7 +87,9 @@
     <string name="hour">uur</string>
     <string name="minutes">minuten</string>
     <string name="km">km</string>
+    <string name="mi">mi</string>
     <string name="kms">Km\'s</string>
+    <string name="mis">Mijlen</string>
     <string name="pairing">Koppelen..</string>
     <string name="allow_sync_tcp_message">Binnenkomende gegevens accepteren?</string>
     <string name="sync_send_busy_message">Bezig met verzenden van gegevens..</string>
