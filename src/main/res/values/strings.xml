@@ -192,4 +192,8 @@
     <string name="sync_action_description2">Transfer your activities to the Revenue App on your desktop</string>
     <string name="manage_action_text">Manage</string>
     <string name="manage_action_description">Add Clients, Projects and Rates</string>
+    <string name="configure_your_app_caps">CONFIGURE YOUR APP</string>
+    <string name="regional_settings_action_text">Regional Settings</string>
+    <string name="regional_settings_action_description1">Your App is setup for\u0020</string>
+    <string name="regional_settings_action_description2">\u0020and\u0020</string>
 </resources>

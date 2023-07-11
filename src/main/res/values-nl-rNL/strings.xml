@@ -192,4 +192,8 @@
     <string name="sync_action_description2">Zet je activiteiten over naar de Revenue App op je desktop</string>
     <string name="manage_action_text">Beheren</string>
     <string name="manage_action_description">Voeg Klanten, Projecten en Tarieven toe</string>
+    <string name="configure_your_app_caps">CONFIGUREER JE APP</string>
+    <string name="regional_settings_action_text">Regionale instellingen</string>
+    <string name="regional_settings_action_description1">Je App staat ingesteld op\u0020</string>
+    <string name="regional_settings_action_description2">\u0020en\u0020</string>
 </resources>
