@@ -196,4 +196,7 @@
     <string name="regional_settings_action_text">Regional Settings</string>
     <string name="regional_settings_action_description1">Your App is setup for\u0020</string>
     <string name="regional_settings_action_description2">\u0020and\u0020</string>
+    <string name="break_action_text">Break</string>
+    <string name="break_action_description1">Automatic break is on</string>
+    <string name="break_action_description2">Automatic break is off</string>
 </resources>
