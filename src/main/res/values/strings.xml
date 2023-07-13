@@ -199,4 +199,7 @@
     <string name="break_action_text">Break</string>
     <string name="break_action_description1">Automatic break is on</string>
     <string name="break_action_description2">Automatic break is off</string>
+    <string name="comments_action_text">Comments</string>
+    <string name="comments_action_description1">Automatic comments are on</string>
+    <string name="comments_action_description2">Automatic comments are off</string>
 </resources>

@@ -199,4 +199,7 @@
     <string name="break_action_text">Pauze</string>
     <string name="break_action_description1">Automatisch pauzeren staat aan</string>
     <string name="break_action_description2">Automatisch pauzeren staat uit</string>
+    <string name="comments_action_text">Opmerkingen</string>
+    <string name="comments_action_description1">Automatische opmerkingen staan aan</string>
+    <string name="comments_action_description2">Automatische opmerkingen staan uit</string>
 </resources>
