@@ -202,4 +202,5 @@
     <string name="comments_action_text">Opmerkingen</string>
     <string name="comments_action_description1">Automatische opmerkingen staan aan</string>
     <string name="comments_action_description2">Automatische opmerkingen staan uit</string>
+    <string name="about_caps">OVER</string>
 </resources>

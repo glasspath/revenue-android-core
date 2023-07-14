@@ -202,4 +202,5 @@
     <string name="comments_action_text">Comments</string>
     <string name="comments_action_description1">Automatic comments are on</string>
     <string name="comments_action_description2">Automatic comments are off</string>
+    <string name="about_caps">ABOUT</string>
 </resources>
