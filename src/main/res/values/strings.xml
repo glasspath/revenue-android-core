@@ -203,4 +203,7 @@
     <string name="comments_action_description1">Automatic comments are on</string>
     <string name="comments_action_description2">Automatic comments are off</string>
     <string name="about_caps">ABOUT</string>
+    <string name="about_action_text">Revenue for Android</string>
+    <string name="about_action_description1">Version\u0020</string>
+    <string name="about_action_description2">, Released\u0020</string>
 </resources>
