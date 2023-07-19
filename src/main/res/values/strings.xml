@@ -206,4 +206,6 @@
     <string name="about_action_text">Revenue for Android</string>
     <string name="about_action_description1">Version\u0020</string>
     <string name="about_action_description2">, Released\u0020</string>
+    <string name="upgrade_action_text">Upgrade</string>
+    <string name="upgrade_action_description1">You are using the free version, upgrade to Pro</string>
 </resources>

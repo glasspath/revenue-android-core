@@ -206,4 +206,6 @@
     <string name="about_action_text">Revenue voor Android</string>
     <string name="about_action_description1">Versie\u0020</string>
     <string name="about_action_description2">, Releasedatum\u0020</string>
+    <string name="upgrade_action_text">Upgraden</string>
+    <string name="upgrade_action_description1">Je gebruikt de gratis versie, upgraden naar Pro</string>
 </resources>
