@@ -1,6 +1,6 @@
 ## Revenue for Android - Privacy Policy
 
-*Last updated: October 11, 2023
+*Last updated: October 11, 2023*
 
 ### Introduction
 
