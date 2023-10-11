@@ -24,4 +24,4 @@ Your privacy and the security of your data are our top priorities. We do not sha
 
 The list of permissions required by the app can be found in the `AndroidManifest.xml` file:
 
-https://github.com/glasspath/revenue-android-core/blob/befda24eda92994d3e43014feacb617b600aaf18/src/main/AndroidManifest.xml#L4-L30
+https://github.com/glasspath/revenue-android-core/blob/76467b11ee0d89562457570468a52cf1e83940cc/src/main/AndroidManifest.xml#L4-L30
