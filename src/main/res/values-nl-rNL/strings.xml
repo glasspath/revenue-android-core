@@ -196,6 +196,8 @@
     <string name="regional_settings_action_text">Regionale instellingen</string>
     <string name="regional_settings_action_description1">Je App staat ingesteld op\u0020</string>
     <string name="regional_settings_action_description2">\u0020en\u0020</string>
+    <string name="theme_action_text">Thema</string>
+    <string name="theme_action_description">Kies een licht of donker thema</string>
     <string name="break_action_text">Pauze</string>
     <string name="break_action_description1">Automatisch pauzeren staat aan</string>
     <string name="break_action_description2">Automatisch pauzeren staat uit</string>
