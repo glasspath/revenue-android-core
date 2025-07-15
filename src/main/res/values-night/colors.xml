@@ -10,6 +10,7 @@
     <color name="transparent">#00000000</color>
 
     <color name="app_bg">#0F1113</color>
+    <color name="nav_bg">#1D1F21</color>
     <color name="accent_color">#42A5F5</color>
     <color name="accent_color_transparent">#5542A5F5</color>
     <color name="accent_color_disabled">#235883</color>
@@ -30,6 +31,7 @@
     <color name="footer_gradient_top">#1D1F21</color>
     <color name="footer_gradient_bottom">#1D1F21</color>
     <color name="footer_lines">#000</color>
+    <color name="footer_button_color">#BBB</color>
     <color name="footer_button_pressed_color">#000</color>
 
     <color name="actionbar_title_color">#BBB</color>
@@ -81,6 +83,7 @@
 
     <color name="action_item_title_text_color">#FFF</color>
     <color name="action_item_description_text_color">#CCC</color>
+    <color name="action_item_icon_color">#CCC</color>
 
     <color name="configurator_item_title">#FAFAFA</color>
     <color name="configurator_item_sub_title">#DDD</color>
