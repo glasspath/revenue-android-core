@@ -57,6 +57,7 @@
     <string name="new_client_configurator_title">New Client</string>
     <string name="new_project_configurator_title">New Project</string>
     <string name="new_rate_configurator_title">New Rate</string>
+    <string name="get_revenue_pro_title">Revenue Pro</string>
     <string name="no_sd_message">The SD card is unavailable, disconnect usb if it is being used as disk drive.</string>
     <string name="close">Close</string>
     <string name="no_sync_file_message">The file \'revenue.sync\' was not found. Choose \'Store to SD\' from the menu to create this file.</string>
@@ -208,6 +209,21 @@
     <string name="about_action_text">Revenue for Android</string>
     <string name="about_action_description1">Version\u0020</string>
     <string name="about_action_description2">, Released\u0020</string>
-    <string name="upgrade_action_text">Upgrade</string>
+    <string name="upgrade_action_text1">Upgrade</string>
+    <string name="upgrade_action_text2">Revenue Pro</string>
     <string name="upgrade_action_description1">You are using the free version, upgrade to Pro</string>
+    <string name="upgrade_action_description2">You are using the Pro version!</string>
+    <string name="revenue_pro">Revenue Pro</string>
+    <string name="revenue_pro_offer1_title">Unlimited access</string>
+    <string name="revenue_pro_offer1_description">Revenue Pro subscribers have unlimited access to all features of the App</string>
+    <string name="revenue_pro_offer2_title">Stay up to date</string>
+    <string name="revenue_pro_offer2_description">By supporting us you ensure this App will remain available on upcoming Android versions and devices</string>
+    <string name="subscribe_price_description1">Auto-renews for\u0020</string>
+    <string name="subscribe_price_description2">\u0020until cancelled</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="week">week</string>
+    <string name="weeks">weeks</string>
+    <string name="month">month</string>
+    <string name="months">months</string>
+    <string name="year">year</string>
 </resources>
