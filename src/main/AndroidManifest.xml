@@ -29,4 +29,7 @@
     <!-- Vibrate, used for feedback when pressing widget buttons -->
     <uses-permission android:name="android.permission.VIBRATE"/>
 
+    <!-- Notifications, used for informing the user about active registrations -->
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+
 </manifest>
