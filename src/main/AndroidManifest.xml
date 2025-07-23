@@ -25,6 +25,7 @@
     <!-- Service, used for updating active registrations when App is closed -->
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_LOCATION" />
 
     <!-- Vibrate, used for feedback when pressing widget buttons -->
     <uses-permission android:name="android.permission.VIBRATE"/>
